@@ -1,3 +1,3 @@
 # GMC101
-First Checkpoint
+Checkpoints
 The Extension is .ipynb
